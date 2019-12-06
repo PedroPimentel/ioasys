@@ -1,0 +1,14 @@
+G:\Documentos\Projetos\ioasysTeste\IoasysApi\IoasysApi\bin\Debug\netcoreapp2.1\IoasysApi.deps.json
+G:\Documentos\Projetos\ioasysTeste\IoasysApi\IoasysApi\bin\Debug\netcoreapp2.1\IoasysApi.runtimeconfig.json
+G:\Documentos\Projetos\ioasysTeste\IoasysApi\IoasysApi\bin\Debug\netcoreapp2.1\IoasysApi.runtimeconfig.dev.json
+G:\Documentos\Projetos\ioasysTeste\IoasysApi\IoasysApi\bin\Debug\netcoreapp2.1\IoasysApi.dll
+G:\Documentos\Projetos\ioasysTeste\IoasysApi\IoasysApi\bin\Debug\netcoreapp2.1\IoasysApi.pdb
+G:\Documentos\Projetos\ioasysTeste\IoasysApi\IoasysApi\obj\Debug\netcoreapp2.1\IoasysApi.csprojAssemblyReference.cache
+G:\Documentos\Projetos\ioasysTeste\IoasysApi\IoasysApi\obj\Debug\netcoreapp2.1\IoasysApi.csproj.CoreCompileInputs.cache
+G:\Documentos\Projetos\ioasysTeste\IoasysApi\IoasysApi\obj\Debug\netcoreapp2.1\IoasysApi.RazorAssemblyInfo.cache
+G:\Documentos\Projetos\ioasysTeste\IoasysApi\IoasysApi\obj\Debug\netcoreapp2.1\IoasysApi.RazorAssemblyInfo.cs
+G:\Documentos\Projetos\ioasysTeste\IoasysApi\IoasysApi\obj\Debug\netcoreapp2.1\IoasysApi.AssemblyInfoInputs.cache
+G:\Documentos\Projetos\ioasysTeste\IoasysApi\IoasysApi\obj\Debug\netcoreapp2.1\IoasysApi.AssemblyInfo.cs
+G:\Documentos\Projetos\ioasysTeste\IoasysApi\IoasysApi\obj\Debug\netcoreapp2.1\IoasysApi.RazorTargetAssemblyInfo.cache
+G:\Documentos\Projetos\ioasysTeste\IoasysApi\IoasysApi\obj\Debug\netcoreapp2.1\IoasysApi.dll
+G:\Documentos\Projetos\ioasysTeste\IoasysApi\IoasysApi\obj\Debug\netcoreapp2.1\IoasysApi.pdb
